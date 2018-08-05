@@ -1,0 +1,3 @@
+rootProject.name = 'appGuide'
+
+include ':app'
